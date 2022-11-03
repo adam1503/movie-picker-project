@@ -1,0 +1,30 @@
+Movie Picker Helper
+
+DONE - in the single movie page, maybe to have a link to watch the film online at ev01.to (maybe it should be displayed after the wheel)
+- when scrolling depasses navbar, to give it a fixed position
+DONE- if wheel length is less than 3, to add an alarm - please choose at least 3 movies.
+- to think about building a feedback form
+- to show something when movie is added to the movie wheel
+- in the recommended page : 
+ 1. to be able to choose between a grid layout, or a slider
+ 2. at the end of the page, to have a feedback form
+
+NOT NEEDED - wheelpage - to set an image for the background
+
+DONE-at the end: once the random wheel is clicked, to clean the list of chosed movies
+
+-problems: 
+SOLVED 1.dont know how to store the index value in local storage, so that once the wheel is refreshed, the random movie remains the same
+2. wheel appears also on another pages
+
+SOLVED problem - fixed Navbar doesnt appear smoothly (added dynamically a margin-top of navbar's height)
+
+DONE-'movie recommendation' - to have a slider (which will move automatically and also to have left/right arrows)
+    - to have also a possibility to choose the movie
+
+
+DONE-wheel - to have a countdown - 3, 2, 1...
+
+DONE - when i click back from singlePage, to scroll to the clicked film
+
+DONE -wheel picker: to be able to access the details of the movie: hover and click on the search btn
